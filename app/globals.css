@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'default';
+    src: url('default.ttf');
+}
+*{
+    font-family: 'default';
+}
+
+.water{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    width:100px;
+    height:100px;
+    display:block;
+  }
+  #water #waveShape {
+    animation-name: waveAction01;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 2s;
+  }
+  
+  @keyframes waveAction01 {
+    0% {
+      transform: translate(300px, -1830px);
+    }
+    100% {
+      transform: translate(102px, -1830px);
+    }
+  }
+  

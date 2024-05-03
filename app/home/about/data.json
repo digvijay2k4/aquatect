@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Digvijay Singh",
+      "username": "@digvijay",
+      "contribution": "12320329",
+      "location": "Lucknow, UP",
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://www.linkedin.com/in/johndoe"
+    },
+    {
+      "name": "Shivadan Dogra",
+      "username": "@shivadan",
+      "contribution": "12323642",
+      "location": "Phagwara, PB",
+      "github": "https://github.com/janesmith",
+      "linkedin": "https://www.linkedin.com/in/janesmith"
+    },
+    {
+      "name": "Rajinder Singh",
+      "username": "@rajinders",
+      "contribution": "12323054",
+      "location": "Ludhiana, PB",
+      "github": "https://github.com/bobjohnson",
+      "linkedin": "https://www.linkedin.com/in/bobjohnson"
+    }
+  ]
